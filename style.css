@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+}
+
+
+ul li a {
+
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Georgia;
+    color: black;
+    padding: 0 20px;
+}
+
+
+
+.img-pep {
+    width: 500px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.CityUCL {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.Players {
+    font-size: 20px;
+    font-family: Comic-Sans-MS;
+    color: black;
+    padding: 0 20px;
+}
+
+
+.Table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+
+.WhatCity {
+
+    font-size: 20px;
+    font-family: Comic-Sans-MS;
+    color: black;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.ButtonP {
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-content: center;
+}
+
+.ButtonH {
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-content: center;
+}
+
+
+.squad {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.CityPlay {
+    font-family: Comic-Sans-MS;
+    font-size: 20px;
+    color: black;
+
+}
+
+.ButtonL {
+    border: none;
+    background-color: lightblue;
+    color: black;
+    padding: 15px 32px;
+    font-family: Lato;
+    font-size: 30px;
+    align-content: center;
+    cursor: pointer;
+    margin: 4px 2px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+.ButtonH {
+    border: none;
+    background-color: lightblue;
+    color: black;
+    padding: 15px 40px;
+    font-family: lato;
+    font-size: 30px;
+    align-content: center;
+    cursor: pointer;
+    margin: 4px 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.ButtonHaaland {
+    border: none;
+    background-color: lightblue;
+    color: black;
+    padding: 15px 20px;
+    font-family: lato;
+    font-size: 20px;
+    align-content: center;
+    cursor: pointer;
+    margin: 5px 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.ButtonJack {
+    border: none;
+    background-color: lightblue;
+    color: black;
+    padding: 15px 20px;
+    font-family: lato;
+    font-size: 20px;
+    align-content: center;
+    cursor: pointer;
+    margin: 5px 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding: var(--scroll-padding, 5rem);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    list-style: none;
+}
+
+.nav-list a {
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.ButtonKDB {
+    border: none;
+    background-color: lightblue;
+    color: black;
+    padding: 15px 20px;
+    font-family: lato;
+    font-size: 20px;
+    align-content: center;
+    cursor: pointer;
+    margin: 5px 5px;
+    text-decoration: none;
+    text-align: center;
+}
